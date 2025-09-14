@@ -1,5 +1,6 @@
 # Coffee Roasting Neural Network
 
+## Overview
 This repository contains a simple neural network implementation for classifying coffee roasting quality based on temperature and duration.
 
 ## Table of Contents
